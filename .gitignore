@@ -1,0 +1,12 @@
+.mypy_cache
+.history
+.DS_Store
+.idea
+.vscode
+*.pyc
+keys
+media
+meta
+resources
+scripts
+lib

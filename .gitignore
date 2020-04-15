@@ -10,3 +10,5 @@ meta
 resources
 scripts
 lib
+tests
+__pycache__
